@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://clinquant-starburst-b7c228.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Luke Brandwood"
